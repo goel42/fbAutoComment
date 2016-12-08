@@ -16,7 +16,7 @@ bday = datetime(2016, 12, 7, 12, 30, 0)
 
 #access_token: Generate one at https://developers.facebook.com/tools/explorer
 # access_token = "EAACEdEose0cBAHeXbrFrar4mxxuLbGEQseune7UZC6UxeV5Io9BkTrmHDxyMZCABeIjn215f9ZBmyybXnCINkUX4oXE4mROVPXkKweNKlKE0qTJfXwo1av2rDl3FgRPU5ISK131fF3kCm0rzvFiaTlYvlZC5zy7yGmHit10T8QZDZD"
-access_token = ""
+access_token = "EAACEdEose0cBAELDou62ojrCOWw9PqZCRZBS1YzH2gg4CJtXLZCeNBiJfVVewLDiEQMGHyhHGfcEFPLLiMZAu5sAVSvR9HecJCzGyZB0jqPxoDpzhrpXG8Sal48bTii1XAdHUVwlZBtD9I1boqGHDm3ZCwunpUYdOzB5j5NOIv8kQZDZD"
 #set true to like posts on your wall
 like = True;
 
@@ -39,9 +39,9 @@ use_filter = True
 bdaywords = ["Happy", "Anuj", "Anujraaj" ,"Goyal", "HBD", "hbd", "bdae", "happy", "you", "many", "Many",  "bdae", "love","Birthday","wishes","Wishes" "Goel", "bday", "b\'day", "birthday", "wish", "returns","anniversaire","compleanno","Geburtstag","natalis"]
 
 #proxy settings
-http_proxy = "https://iim2014002:Anuj9811410760@172.31.1.4:8080"
-http_proxy = "http://iim2014002:Anuj9811410760@172.31.1.4:8080"
-ftp_proxy = "iim2014002:Anuj9811410760@172.31.1.4:8080"
+http_proxy = "https://user:password@172.31.1.4:8080"
+http_proxy = "http://user:password@172.31.1.4:8080"
+ftp_proxy = "user:password@172.31.1.4:8080"
 
 #do not change anything beyond this line
 
