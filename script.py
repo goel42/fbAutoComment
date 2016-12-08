@@ -16,7 +16,7 @@ bday = datetime(2016, 12, 7, 12, 30, 0)
 
 #access_token: Generate one at https://developers.facebook.com/tools/explorer
 # access_token = "EAACEdEose0cBAHeXbrFrar4mxxuLbGEQseune7UZC6UxeV5Io9BkTrmHDxyMZCABeIjn215f9ZBmyybXnCINkUX4oXE4mROVPXkKweNKlKE0qTJfXwo1av2rDl3FgRPU5ISK131fF3kCm0rzvFiaTlYvlZC5zy7yGmHit10T8QZDZD"
-access_token = "EAACEdEose0cBAELDou62ojrCOWw9PqZCRZBS1YzH2gg4CJtXLZCeNBiJfVVewLDiEQMGHyhHGfcEFPLLiMZAu5sAVSvR9HecJCzGyZB0jqPxoDpzhrpXG8Sal48bTii1XAdHUVwlZBtD9I1boqGHDm3ZCwunpUYdOzB5j5NOIv8kQZDZD"
+access_token = ""
 #set true to like posts on your wall
 like = True;
 
